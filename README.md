@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 Hi 👋, I'm Lihao(Alex) Qian, a passionate Computer Science student graduated from Simon Fraser University <br>
-🔭 I’m looking for jobs in SDE and MLE.
-🌱 I’m currently learning how to develop a profitable crypto trading bot.
+🔭 I’m looking for jobs in SDE and MLE. <br>
+🌱 I’m currently learning how to develop a profitable crypto trading bot. <br>
+⚡ Fun fact: I'm a photographer and an audiophile <br>
 📫 How to reach me: lihaoq2337@gmail.com
 
 
