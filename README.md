@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-Hi 👋, I'm Lihao Qian<br>A passionate machine learning developer from Simon Fraser University
+Hi 👋, I'm Lihao(Alex) Qian, a passionate Computer Science student graduated from Simon Fraser University <br>
+🔭 I’m looking for jobs in SDE and MLE.
+🌱 I’m currently learning how to develop a profitable crypto trading bot.
+📫 How to reach me: lihaoq2337@gmail.com
 
 
 # 💻 Tech Stack:
