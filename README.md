@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫 About Me:
-Hi 👋, I'm Lihao(Alex) Qian, a passionate Computer Science student graduated from Simon Fraser University <br>
-🔭 I’m looking for jobs in SDE and MLE. <br>
-🌱 I’m currently learning MLLMs with CV and SLAM applications in robotics. <br>
-⚡ Fun fact: I'm a photographer and an audiophile <br>
-📫 How to reach me: lihaoq2337@gmail.com
+💫 About Me:
+Hi, I'm Lihao (Alex) Qian, a passionate Computer Science graduate from Simon Fraser University. <br>
+🔭 I'm currently working as a Machine Learning Engineering (MLE) intern, specializing in image pre-processing and 3D reconstruction within the field of robotics. <br>
+🌱 I’m diving deep into Multimodal Large Language Models (MLLMs) with a particular focus on Computer Vision (CV) and Simultaneous Localization and Mapping (SLAM) applications in robotics. <br>
+⚡ Fun fact: In my free time, I’m an avid photographer and an audiophile. <br>
+📫 Feel free to reach out to me at: lihaoq2337@gmail.com <br>
 
 
 # 💻 Tech Stack:
