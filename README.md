@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 💫 About Me:
-Hi, I'm Lihao (Alex) Qian, a passionate Computer Science graduate from Simon Fraser University. <br>
+Hi, I'm Lihao (Alex) Qian, a passionate Computer Science student currently @ University of Waterloo Master of Engineering ECE program. <br>
 🔭 I'm currently working as a Machine Learning Engineering (MLE) intern, specializing in image pre-processing and 3D reconstruction within the field of robotics. <br>
 🌱 I’m diving deep into Multimodal Large Language Models (MLLMs) with a particular focus on Computer Vision (CV) and Simultaneous Localization and Mapping (SLAM) applications in robotics. <br>
 ⚡ Fun fact: In my free time, I’m an avid photographer and an audiophile. <br>
